@@ -1,3 +1,3 @@
-first_number = rand()
-second_number = rand()
+first_number = 5
+second_number = 4
 sum = first_number + second_number
