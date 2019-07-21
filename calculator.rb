@@ -1,1 +1,1 @@
-# Add your variables her
+first_number = rand.number 
