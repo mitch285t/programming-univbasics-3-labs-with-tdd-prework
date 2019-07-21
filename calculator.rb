@@ -1,1 +1,1 @@
-first_number = rand.number 
+first_number = rand
