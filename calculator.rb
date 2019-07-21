@@ -1,1 +1,1 @@
-first_number = rand
+first_number = rand()*100
